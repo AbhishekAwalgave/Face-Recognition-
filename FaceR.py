@@ -26,7 +26,8 @@ while True:
 # Release camera and close window
 cap.release()
 cv2.destroyAllWindows()
-cv2.waitKey(1)  # Ensures window fully closes on Windows
+cv2.waitKey(1)  
+
 
 
 
